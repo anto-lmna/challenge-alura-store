@@ -1,2 +1,4 @@
-# challenge-alura-store
-Formación de Data Sciencie de Alura Latam - Oracle Next Education
+# Alura Store: Análisis de Ventas y Rendimiento
+
+## Descripción 
+
