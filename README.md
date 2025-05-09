@@ -13,8 +13,7 @@ En el siguiente proyecto se realiza un análisis de desempeño de cuatro tiendas
 
 ### ▶️Como ejecutar el proyecto
 
-1. Abrir el archivo informe_final_alura_store.ipynb (notebook) en Google Colab.
-2. Asegurate de tener conexión a internet y permisos de acceso al archivo.
-3. Ejecutá las celdas una por una desde el menú superior: Entorno de ejecución > Ejecutar todas.
-4. Los gráficos se generarán dentro del mismo notebook al ejecutar las celdas correspondientes.
+1. Abrir el archivo ``` informe_final_alura_store.ipynb ``` en Google Colab.
+2. Ejecutá las celdas una por una desde el menú superior: Entorno de ejecución > Ejecutar todas.
+3. Los gráficos se generarán dentro del mismo notebook al ejecutar las celdas correspondientes.
 
